@@ -20,6 +20,9 @@ url: "https://uidaholib.github.io" # the base hostname & protocol for your site,
 permalink: pretty
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE.txt", "README.md", "Rakefile"]
 
+# set noindex to true if you do NOT want Google to index your site
+noindex: true
+
 # Set a path/url to a logo that will be displayed instead of the title
 #logo: "/assets/images/just-the-docs.png"
 
