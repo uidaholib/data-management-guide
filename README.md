@@ -75,8 +75,8 @@ As a div around Markdown content:
 
 ## Use Locally
 
-- clone repository, `git clone https://github.com/collectionbuilder/cb-docs.git`
-- in repository folder, `bundle install` (this project uses "github-pages" gem to keep in sync with GH Pages)
+- clone repository, `git clone https://github.com/uidaholib/data-management-guide.git`
+- in the repository folder, `bundle install` (this project uses "github-pages" gem to keep in sync with GH Pages. this necessary **first time** you use the repository only!)
 - in repository folder, `bundle exec jekyll s` to serve the site locally
 
 ## Customize Template
@@ -87,5 +87,5 @@ As a div around Markdown content:
 
 ## About the Theme
 
-This repository is built on "Just the Docs" theme (<https://github.com/pmarsceill/just-the-docs>).
+This repository is built on "Just the Docs" theme (<https://github.com/pmarsceill/just-the-docs>) (MIT license).
 The theme was forked in 2021-04 and all files are included in this repository (rather than as a gem theme). 
