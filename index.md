@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: Data Management Guide
 nav_order: 0
 description: "Data Management @ the University of Idaho Library"
 ---
