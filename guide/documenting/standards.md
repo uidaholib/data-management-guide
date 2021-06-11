@@ -58,7 +58,8 @@ Here is some information on common metadata standards, as well as some examples:
     <tr>
     <td rowspan="2" scope="rowgroup" class="align-middle">Social Sciences</td>
     <td scope="row" class="align-middle">
-        <a href="http://www.ddialliance.org/" target="blank">Data Documentation Initiative (DDI)</a</td> <td class="align-middle">A metadata specification for the social and behavioral sciences created by the Data Documentation Initiative. Used to document data through its lifecycle and to enhance dataset interoperability.</td>
+        <a href="http://www.ddialliance.org/" target="blank">Data Documentation Initiative (DDI)</a></td> 
+    <td class="align-middle">A metadata specification for the social and behavioral sciences created by the Data Documentation Initiative. Used to document data through its lifecycle and to enhance dataset interoperability.</td>
     </tr>
     <tr>
     <td scope="row" class="align-middle">
