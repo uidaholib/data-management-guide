@@ -1,6 +1,6 @@
 ---
 title: Data Citation
-nav_order: 5
+nav_order: 7
 ---
 
 # Citing Data

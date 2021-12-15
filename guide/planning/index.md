@@ -1,7 +1,7 @@
 ---
-title: Data Management Planning
+title: Data Management Plans & Planning
 has_children: true
 nav_order: 1
 ---
 
-# Data Management Planning
+## Data Management Plans & Planning
