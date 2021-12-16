@@ -12,7 +12,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Data Guide
+title: Data Management Guide
 description: The University of Idaho Library strives to help researchers at the University of Idaho become familiar with data management practices. Library faculty endeavor to communicate information about data storage standards and protocols, metadata reporting requirements and best practices, and the requirements and recommendations of national funding bodies and/or professional associations.
 baseurl: /data-management-guide # the subpath of your site, e.g. /blog
 url: "https://uidaholib.github.io" # the base hostname & protocol for your site, e.g. http://example.com

@@ -23,7 +23,7 @@ There are many reasons to share your data with the world at large. Not least
 
 ### At the University of Idaho
 
-* [University of Idaho Research Computing and Data Services (RCDS) Data Portal](link)
+* [University of Idaho Research Computing and Data Services (RCDS) Data Portal](https://data.nkn.uidaho.edu//)
 UI RCDS hosts a data repository for University of Idaho-produced data. It can
  accommodate most types of data and is free to U of I personnel. The repository
   is FAIR-compliant and backed up routinely with the Idaho National Laboratory.
@@ -36,10 +36,10 @@ INSIDE Idaho is the official geospatial data clearinghouse for the State of
 
 Commonly used repositories include:
 
-* [Figshare](link)
-* [Zendodo](link)
-* [Open Science Framework](link)
-* [Data Dryad](link)
+* [Figshare](https://figshare.com/)
+* [Zendodo](https://zenodo.org/)
+* [Open Science Framework](https://osf.io)
+* [Data Dryad](https://datadryad.org/stash)
 
 The [Re3data.org](http://www.re3data.org/) website is a list of other
  disciplinary repositories.

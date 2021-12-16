@@ -55,7 +55,8 @@ The following are questions that can assist in developing a strong data
 
 **Copyright, Security, Privacy Concerns:**
 
-- Does the dataset include any sensitive information subject to confidentiality concerns?
+- Does the dataset include any sensitive information subject to confidentiality
+ concerns?
 - If possible, describe any required or special measures required by funders,
  lab, or IRB.
 - Will the data be collected in the United States or other? If so, where?
