@@ -23,13 +23,13 @@ There are many reasons to share your data with the world at large. Not least
 
 ### At the University of Idaho
 
-* [University of Idaho Research Computing and Data Services (RCDS) Data Portal](https://data.nkn.uidaho.edu//)
-UI RCDS hosts a data repository for University of Idaho-produced data. It can
+* **[University of Idaho Research Computing and Data Services (RCDS) Data Portal](https://data.nkn.uidaho.edu//)**
+  * UI RCDS hosts a data repository for University of Idaho-produced data. It can
  accommodate most types of data and is free to U of I personnel. The repository
   is FAIR-compliant and backed up routinely with the Idaho National Laboratory.
 
-* [INSIDE Idaho - Geospatial Data](https://www.insideidaho.org)
-INSIDE Idaho is the official geospatial data clearinghouse for the State of
+* **[INSIDE Idaho - Geospatial Data](https://www.insideidaho.org)**
+  * INSIDE Idaho is the official geospatial data clearinghouse for the State of
  Idaho. INSIDE Idaho serves as a comprehensive geospatial data digital library, providing access to, and a context within which to use, geospatial data and information by, for, and about Idaho.
 
 ### Other Options
