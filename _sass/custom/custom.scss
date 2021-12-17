@@ -53,3 +53,11 @@ div.highlighter-rouge {
     border: 2px solid $border-color;
     border-radius: $border-radius;
 }
+.figure-caption {
+    p { 
+        margin-top: .25em;
+        margin-bottom: .25em;
+        font-size: $font-size-3;
+        color: $grey-dk-200;
+    }
+}
