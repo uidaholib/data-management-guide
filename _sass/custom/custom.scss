@@ -46,3 +46,10 @@ div.highlighter-rouge {
 .alert-red {
     border-color: $red-300;
 }
+
+/* figure include */
+.figure-img {
+    max-width: 100%;
+    border: 2px solid $border-color;
+    border-radius: $border-radius;
+}
