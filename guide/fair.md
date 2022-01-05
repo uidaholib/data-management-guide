@@ -6,7 +6,7 @@ nav_order: 2
 
 ## The FAIR Data Principles
 
-Data management and sharing can be conducted in many ways. Researchers often try
+Data management and sharing may be conducted in many ways. Researchers often try
  to hold on to older methods, which typically default to no data sharing or to a
   system in which they are willing to share if asked by data seekers. There may
    be good reasons for restricting data like this, but often it is due to time
