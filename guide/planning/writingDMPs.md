@@ -31,7 +31,7 @@ nav_order: 2
        specific repository, but others may be acceptable as well, as long as you
         accomplish the effect of the data shared in a FAIR-compliant manner.
 
-2. Outline a draft with the required sections listed in the guidelines. These
+2. Outline a document with the required sections listed in the guidelines. These
  may be spelled out explicitly, or these may be presented as a set of questions
   that you must address. In the latter case, just create sub-headings that
    address each question.
@@ -47,26 +47,36 @@ nav_order: 2
   associated with them, e.g. privacy or confidentiality steps involved.
 
 5. Write answers to the questions from item 2 above using the information
- you’ve gathered in items 3 and 4. Everything should be pretty straightforward.
+ you’ve gathered in items 3 and 4. Everything should read clearly.
 
 ### Tips
 
-* Data management plans should be clear, logical, and easy to follow. Avoid
- unnecessary jargon. A reader should be able to follow your project’s stages by
-  reading your plan. Don’t bother explaining scientific points, only explain
-   data management points. Think ‘what’ and ‘where’, and not ‘why’.
+* Data management plans should be clear, logical, and easy to follow.
 
-* It should have some unique information not in the rest of the proposal. You
- probably don’t mention publishing the dataset, depositing it into a repository,
-  or your choices of metadata schema anywhere else in your proposal. You may not
+* Avoid unnecessary jargon. A reader should be able to follow your project by
+ reading your plan. Don’t bother explaining or justifying the science here
+  (that's what the other parts of the proposal are for), focus instead on
+   explaining the data management. Think ‘what’ and ‘where’ of your data, more
+    than ‘why’.
+
+* The DMP should have some unique information not in the rest of the proposal.
+ You may not mention publishing the dataset, depositing it into a repository, or
+  your choices of metadata schema anywhere else in your proposal. You may not
   mention specifics about data formatting, back-up procedures, or naming
    conventions (if relevant). Here’s the place to do it.
 
-* This is not rocket science, so don’t overthink it. On the other hand, don’t
- treat this as an unfunded mandate or administrative burden either. Cynicism or
-  hand-wavy dismissal is easy for a reader to spot. Look, you know how to do
-   your research, just write down what you do with the data.
+* Don’t overthink it. On the other hand, don’t treat this as an unfunded mandate
+ or administrative burden either. Cynicism or hand-wavy dismissal of the task is
+  easy for a reader to spot and reflects poorly on your proposal.
+
+* If there are legal or ethical restrictions, write down what you will do to
+ meet them and/or how they constrain your ability to share or publish data. If
+  you really don't want to follow an expectation in the guidelines, write a
+   justified reason for not doing it. Intellectual property and future
+    commercialization might be perfectly valid reasons under the right
+     circumstances for not publishing data, among others.
 
 * If you don’t know, ask. Some of this might be unfamiliar – what’s a metadata
- schema? What are my repository options?  If so, just ask at the Data Hub. If
-  they aren’t the right people to help, they know the people on campus who can.
+ schema? What are my repository deposit options? If so, just ask at the U of I
+  Library Data Hub. If they aren’t the right people to help, they know the
+   people on campus who can.
