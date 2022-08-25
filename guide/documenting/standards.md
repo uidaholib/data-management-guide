@@ -23,15 +23,11 @@ Here is some information on common metadata standards, as well as some examples:
 ### Life Sciences
 
 - **Darwin Core**: Designed to facilitate the sharing of information about
- biological diversity. It is primarily based on taxa, their occurrence in nature
-  as documented by observations, specimens, and samples and related information
-- **Ecological Metadata Language (EML)**: Consists of XML modules that can be used
- to document ecological datasets. A good standard for non-spatial environmental
-  data
+ biological diversity. It is primarily based on taxa, their occurrence in nature as documented by observations, specimens, and samples and related information. Primarily used in describing ecological specimens and for natural history collections.
+- **Ecological Metadata Language (EML)**: Consists of XML modules that can be used  to document ecological datasets. A good standard for non-spatial environmental data
 
 ### Humanities
 
-- **[Seeing Standards: A Visualization of the Metadata Universe](http://jennriley.com/metadatamap/)**: Information on 105 cultural heritage metadata standards.
 - **Text Encoding Initiative (TEI)**: A widely-used standard for representing
  textual materials in XML.
 
@@ -41,10 +37,6 @@ Here is some information on common metadata standards, as well as some examples:
  specification for the social and behavioral sciences created by the Data
   Documentation Initiative. Used to document data through its lifecycle and to
    enhance dataset interoperability.
-- **Statistical Data and Metadata Exchange (SDMX)**: A self-describing data format
- that both provides metadata and a method of data transmission. It is primarily
-  used in "the world of offical statistics," such as the EU, WHO, UNESCO, World
-   Bank, and US Reserve Banks.
 
 ### Geospatial
 
