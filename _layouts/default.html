@@ -42,43 +42,31 @@ layout: table_wrappers
 
   <div class="side-bar">
     <div class="site-header">
-      <a href="https://www.lib.uidaho.edu/" class="site-title lh-tight">{% include title.html %}</a>
-      <a href="#" id="menu-button" class="site-button">
-        <svg viewBox="0 0 24 24" class="icon"><use xlink:href="#svg-menu"></use></svg>
+      <a href="https://www.lib.uidaho.edu/" title="University of Idaho Library" class="site-title lh-tight">
+        
+        <img class="" src="https://www.lib.uidaho.edu/media/images/ui_library_horizontal.png" alt="University of Idaho Library logo with gold I">
+        
       </a>
+      <button href="#" id="menu-button" class="site-button" title="Menu Button" aria-label="Toggle Navigation Menu">
+        <svg viewBox="0 0 24 24" class="icon"><use xlink:href="#svg-menu"></use></svg>
+      </button>
     </div>
-    <nav role="navigation" aria-label="Main" id="site-nav" class="site-nav">
-      {% if site.just_the_docs.collections %}
-        {% assign collections_size = site.just_the_docs.collections | size %}
-        {% for collection_entry in site.just_the_docs.collections %}
-          {% assign collection_key = collection_entry[0] %}
-          {% assign collection_value = collection_entry[1] %}
-          {% assign collection = site[collection_key] %}
-          {% if collection_value.nav_exclude != true %}
-            {% if collections_size > 1 %}
-              <div class="nav-category">{{ collection_value.name }}</div>
-            {% endif %}
-            {% include nav.html pages=collection %}
-          {% endif %}
-        {% endfor %}
-      {% else %}
-        {% include nav.html pages=site.html_pages %}
-      {% endif %}
+    <nav role="navigation" aria-label="Main navigation menu" id="site-nav" class="site-nav">
+      {% include nav.html pages=site.html_pages %}
     </nav>
     
   </div>
   <div class="main" id="top">
     <div id="main-header" class="main-header">
-      {% if site.search_enabled != false %}
-        <div class="search">
-          <div class="search-input-wrap">
-            <input type="text" id="search-input" class="search-input" tabindex="0" placeholder="Search {{ site.title }}" aria-label="Search {{ site.title }}" autocomplete="off">
-            <label for="search-input" class="search-label"><svg viewBox="0 0 24 24" class="search-icon"><use xlink:href="#svg-search"></use></svg></label>
-          </div>
-          <div id="search-results" class="search-results"></div>
+      
+      <div class="search">
+        <div class="search-input-wrap">
+          <input type="text" id="search-input" class="search-input" tabindex="0" placeholder="Search {{ site.title }}" aria-label="Search {{ site.title }}" autocomplete="off">
+          <label for="search-input" class="search-label"><svg viewBox="0 0 24 24" class="search-icon"><use xlink:href="#svg-search"></use></svg></label>
         </div>
-      {% endif %}
-      {% include header_custom.html %}
+        <div id="search-results" class="search-results"></div>
+      </div>
+      
       {% if site.aux_links %}
         <nav aria-label="Auxiliary" class="aux-nav">
           <ul class="aux-nav-list">

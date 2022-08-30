@@ -16,4 +16,4 @@ The University of Idaho Library strives to help researchers at the University of
 You can navigate through the guide using the menu on the left.  
 
 If you have any questions or comments regarding this guide or in the information
- within, please [contact us](./guide/contact).
+ within, please [contact us]({{ '/guide/contact/' | relative_url }}).
