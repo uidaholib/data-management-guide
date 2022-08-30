@@ -14,8 +14,8 @@
 # in the templates via {{ site.myvariable }}.
 title: Data Management Guide
 description: The University of Idaho Library strives to help researchers at the University of Idaho become familiar with data management practices. Library faculty endeavor to communicate information about data storage standards and protocols, metadata reporting requirements and best practices, and the requirements and recommendations of national funding bodies and/or professional associations.
-baseurl: /data-management-guide # the subpath of your site, e.g. /blog
-url: "https://uidaholib.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: /services/data/data-management # the subpath of your site, e.g. /blog
+url: "https://www.lib.uidaho.edu" # the base hostname & protocol for your site, e.g. http://example.com
 
 permalink: pretty
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE.txt", "README.md", "Rakefile"]
@@ -91,11 +91,6 @@ gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into t
 
 # Color scheme currently only supports "dark", "light"/nil (default), or a custom scheme that you define
 color_scheme: library
-
-# Google Analytics Tracking (optional)
-# e.g, UA-1234567-89
-#ga_tracking: UA-2709176-10
-#ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (true/nil by default)
 
 plugins:
   - jekyll-seo-tag
