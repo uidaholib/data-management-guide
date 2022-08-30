@@ -17,3 +17,5 @@ We extend this courtesy to others who find our content useful.
 - [University of Oregon](http://library.uoregon.edu/datamanagement/index.html)
 - The University of Virginia's [Scientific Data Consulting Group](http://www2.lib.virginia.edu/brown/data/)
 - [University of Wisconsin Libraries](http://researchdata.wisc.edu/)
+
+This site uses a modified version of [Just the Docs](https://github.com/just-the-docs/just-the-docs) theme and is built using [Jekyll](https://jekyllrb.com/).
