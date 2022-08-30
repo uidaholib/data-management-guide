@@ -53,7 +53,8 @@ Deliberately, the FAIR principles do not demand a specific technology for
 
 
 
-FAIR Principles are listed here under a CC4.0 International License by: \\
-> > Wilkinson, M., Dumontier, M., Aalbersberg, I. et al. The FAIR Guiding Principles
+FAIR Principles are listed here under a CC4.0 International License by:
+
+> Wilkinson, M., Dumontier, M., Aalbersberg, I. et al. The FAIR Guiding Principles
  for scientific data management and stewardship. *Sci Data* 3, 160018 (2016).
   DOI: [10.1038/sdata.2016.18](https://doi.org/10.1038/sdata.2016.18)

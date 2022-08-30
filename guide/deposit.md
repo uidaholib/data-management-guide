@@ -43,5 +43,6 @@ Commonly used repositories include:
 
 The [Re3data.org](http://www.re3data.org/) website is a list of other
  disciplinary repositories.
-> > Note: Not all of the repositories listed can ensure long-term preservation
+ 
+> Note: Not all of the repositories listed can ensure long-term preservation
  of your data; contact each one for more details.

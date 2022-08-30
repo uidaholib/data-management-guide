@@ -12,7 +12,7 @@ Identify your solicitation or Request for Proposals (RFP) and any guidelines
  regarding data management plans. *Read them* and jot down any specific
   demands.
 
-> > Keep in mind: In NSF, most directorates and some divisions have unique,
+> Keep in mind: In NSF, most directorates and some divisions have unique,
  specific or narrower guidelines to follow than the general NSF specifications.
 
 Example:  In response to the [Division of Materials Research: Topical Materials Research Program (DMR:TMRP) Solicitation](https://www.nsf.gov/pubs/2021/nsf21600/nsf21600.htm), an applicant
