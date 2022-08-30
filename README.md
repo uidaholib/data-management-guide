@@ -1,8 +1,15 @@
 # data-management-guide
 
-> draft University of Idaho Library Data Management Guide
+University of Idaho Library Data Management Guide
+
+<https://www.lib.uidaho.edu/services/data/data-management/>
 
 ## Contributing 
+
+Outside contributors are welcome and encouraged to help make these docs better!
+If you discover an error, or a page in need of an update or clarification, please [open an new Issue](https://github.com/CollectionBuilder/cb-docs/issues) describing the problem, including link to the page.
+If you would like to edit directly, please [Fork this repository and open a Pull Request with your changes](https://guides.github.com/activities/forking/). 
+This can be facilitated by following the "Edit this page on GitHub" link at the bottom of any content page.
 
 Guide content follows these conventions:
 
@@ -89,3 +96,4 @@ As a div around Markdown content:
 
 This repository is built on "Just the Docs" theme (<https://github.com/pmarsceill/just-the-docs>) (MIT license).
 The theme was forked in 2021-04 and all files are included in this repository (rather than as a gem theme). 
+Some aspects of the theme are customized, some additional component styles are added, and it does not track JTD's updates (it isn't compatible with current JTD versions!).
