@@ -65,7 +65,7 @@ Unpublished raw data from study, untitled work
   [http://pewhispanic.org/datasets/](http://pewhispanic.org/datasets/)
 > Smith, J.A. (2006). \[Personnel survey\]. Unpublished raw data.
 
-## Additional Resources
+## Additional Citation Resources
 
 - [Earth Science Information Federation (ESIP) Citation Guidelines for Data](http://wiki.esipfed.org/index.php/Interagency_Data_Stewardship/Citations#Citation_Guidelines)
 
