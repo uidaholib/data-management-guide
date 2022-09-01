@@ -5,7 +5,7 @@ nav_order: 0
 description: "Data Management Services at the University of Idaho Library"
 ---
 
-# Data Management Guide
+# U of I Library Data Management Guide
 
 The University of Idaho Library strives to help researchers at the University of Idaho become familiar with data management practices. 
 Librarians endeavor to communicate information about data storage standards and protocols, metadata reporting requirements and best practices, and the requirements and recommendations of national funding bodies and/or professional associations.

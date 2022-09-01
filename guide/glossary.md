@@ -1,6 +1,7 @@
 ---
 title: Glossary
 nav_order: 9
+nav_exclude: true
 ---
 
 # Glossary of Terms
