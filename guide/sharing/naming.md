@@ -4,14 +4,14 @@ parent: Formats, Files, and Backing Up
 nav_order: 2
 ---
 
-## File and Folder Naming
+# File and Folder Naming
 
 There are many guidelines on the web regarding the best ways to name your files.
  These guidelines help one organize their files, prevent accidental deletion,
   and help others in the future better understand the file's contents from its
    filename.
 
-### General Guidelines
+## General Guidelines
 
 - Decide on a naming and organizational convention among you and your
  collaborators.

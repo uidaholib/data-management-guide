@@ -4,7 +4,7 @@ has_children: false
 nav_order: 2
 ---
 
-## The FAIR Data Principles
+# The FAIR Data Principles
 
 Data management and sharing may be conducted in many ways. Researchers often try
  to hold on to older methods, which typically default to no data sharing or to a
@@ -49,9 +49,6 @@ Deliberately, the FAIR principles do not demand a specific technology for
 - R1.1. (meta)data are released with a clear and accessible data usage license
 - R1.2. (meta)data are associated with detailed provenance
 - R1.3. (meta)data meet domain-relevant community standards
-
-
-
 
 FAIR Principles are listed here under a CC4.0 International License by:
 

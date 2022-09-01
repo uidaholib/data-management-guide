@@ -4,7 +4,7 @@ has_children: false
 nav_order: 5
 ---
 
-## Depositing Your Data in a Repository
+# Depositing Your Data in a Repository
 
 Repositories are the backbone of data sharing. The best solution to sharing is
  to put data in an archival system that aims for long-term preservation, robust
@@ -21,7 +21,7 @@ There are many reasons to share your data with the world at large. Not least
        increase in citations for articles whose associated data were available
         online.
 
-### At the University of Idaho
+## At the University of Idaho
 
 * **[University of Idaho Research Computing and Data Services (RCDS) Data Portal](https://data.nkn.uidaho.edu//)**
   * UI RCDS hosts a data repository for University of Idaho-produced data. It can
@@ -32,7 +32,7 @@ There are many reasons to share your data with the world at large. Not least
   * INSIDE Idaho is the official geospatial data clearinghouse for the State of
  Idaho. INSIDE Idaho serves as a comprehensive geospatial data digital library, providing access to, and a context within which to use, geospatial data and information by, for, and about Idaho.
 
-### Other Options
+## Other Options
 
 Commonly used repositories include:
 

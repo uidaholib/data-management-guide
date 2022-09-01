@@ -4,7 +4,7 @@ parent: Formats, Files, and Backing Up
 nav_order: 1
 ---
 
-## File Formats
+# File Formats
 
 The format you use to represent your data is one of the main factors for
  determining how likely someone else will be able to use your data in the
@@ -17,7 +17,7 @@ Eventually, much of the hardware and software we use today will likely become
 It's also important to use formats that save as much of the original information
  as possible.
 
-**Guidelines for choosing appropriate file formats:**
+## Guidelines for choosing appropriate file formats:
 
 - Choose formats that are non-proprietary.
     Example: Instead of saving your spreadsheet as an Excel file (.xls), save it
@@ -31,7 +31,7 @@ It's also important to use formats that save as much of the original information
  encrypted dataset whose key has been lost (say the password is forgotten) is no
  dataset at all.
 
-**Preferred formats:**
+## Preferred formats:
 
 - Image: JPEG, JPG-2000, PNG, TIFF
 - Text: HTML, XML, PDF/A, UTF-8, ASCII

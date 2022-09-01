@@ -4,7 +4,7 @@ parent: Data Documentation & Metadata
 nav_order: 2
 ---
 
-## Commonly Used Metadata Standards
+# Commonly Used Metadata Standards
 
 In the case of datasets, metadata provides information regarding the who, what,
  when, where, how, etc. of a a dataset. This information will likely need to be
@@ -16,29 +16,29 @@ In the case of datasets, metadata provides information regarding the who, what,
 
 Here is some information on common metadata standards, as well as some examples:
 
-### General
+## General
 
 - **Dublin Core (DC)**: Widely used in disciplinary and institutional repositories
 
-### Life Sciences
+## Life Sciences
 
 - **Darwin Core**: Designed to facilitate the sharing of information about
  biological diversity. It is primarily based on taxa, their occurrence in nature as documented by observations, specimens, and samples and related information. Primarily used in describing ecological specimens and for natural history collections.
 - **Ecological Metadata Language (EML)**: Consists of XML modules that can be used  to document ecological datasets. A good standard for non-spatial environmental data
 
-### Humanities
+## Humanities
 
 - **Text Encoding Initiative (TEI)**: A widely-used standard for representing
  textual materials in XML.
 
-### Social Sciences
+## Social Sciences
 
 - **[Data Documentation Initiative (DDI)](http://www.ddialliance.org/)**: A metadata
  specification for the social and behavioral sciences created by the Data
   Documentation Initiative. Used to document data through its lifecycle and to
    enhance dataset interoperability.
 
-### Geospatial
+## Geospatial
 
 - **[Content Standard for Digital Geospatial Metadata (CSDGM)](http://www.fgdc.gov/metadata/geospatial-metadata-standards)**:  CSDGM, Vers. 2 (FGDC-STD-001-1998) is the
  current US Federal Metadata standard. The Federal Geographic Data Committee
@@ -56,7 +56,7 @@ Here is some information on common metadata standards, as well as some examples:
    supports the documentation of imagery, gridded data and other remotely sensed
     data such as monitoring stations.
 
-### Physical Sciences
+## Physical Sciences
 
 - **[NetCDF Climate and Forecast (CF) Metadata Conventions](http://www.cgd.ucar.edu/cms/eaton/netcdf/CF-20010629.htm)**: The NetCDF Climate and Forecast (CF) Metadata
  Conventions are designed to promote the interoperable processing and sharing of

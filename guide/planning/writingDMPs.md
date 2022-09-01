@@ -4,9 +4,9 @@ parent: Data Management Plans & Planning
 nav_order: 2
 ---
 
-## How to Write a DMP
+# How to Write a DMP
 
-### 1. Identify your DMP Guidelines
+## 1. Identify your DMP Guidelines
 
 Identify your solicitation or Request for Proposals (RFP) and any guidelines
  regarding data management plans. *Read them* and jot down any specific
@@ -36,7 +36,7 @@ Your data management plan should be responsive to any particular demands or
     repository, but others may be acceptable as well, as long as you accomplish
      the effect of the data shared in a FAIR-compliant manner.
 
-### 2. Outline a Draft Document
+## 2. Outline a Draft Document
 
 Outline a document with the required sections listed in the guidelines. These
  may be spelled out explicitly, or these may be presented as a set of questions
@@ -49,7 +49,7 @@ An example would be something like this for the NSF Solicitation above:
  NSF-conforming Outline"  caption="Fig.3 - Screenshot of an NSF-conforming DMP
   outline" %}
 
-### 3. Outline Your Project's Outputs
+## 3. Outline Your Project's Outputs
 
 Separately, create a simple outline for yourself of the stages of your
  research project and the material generated at each stage. What is meant by
@@ -59,13 +59,13 @@ Separately, create a simple outline for yourself of the stages of your
     useful to create a workflow diagram, or just a numerical list of each
     planned step.
 
-### 4. Detail Your Project's Outputs
+## 4. Detail Your Project's Outputs
 
 Using the outline of the outputs you outlined above, write down
  their file formats, expected size, and any unusual or special circumstances
   associated with them, e.g. privacy or confidentiality steps involved.
 
-### 5. Fill in the Draft with Your Information
+## 5. Fill in the Draft with Your Information
 
 Write answers to the questions from item 2 above using the information
  you’ve gathered in items 3 and 4. Everything should read clearly and simply.
@@ -74,7 +74,7 @@ Write answers to the questions from item 2 above using the information
  The point of the DMP is to lay out your steps and stages, showing that you are
  thoughtful about how your plan to manage your data and associated resources.
 
-### Tips For Success
+## Tips For Success
 
 * Data management plans should be clear, logical, and easy to follow.
 

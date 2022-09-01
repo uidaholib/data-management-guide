@@ -3,7 +3,7 @@ title: Data Citation
 nav_order: 7
 ---
 
-## Citing Data
+# Citing Data
 
 Why cite data?  Keep in mind that citing data helps increase its visibility and
  acceptance, incorporates it into the scholarly record, gives credit to the
@@ -15,7 +15,7 @@ Data citation formats are still a work in progress. Some data centers and style
   style manual, try to form the citation according to the general rules of that
    style. It is usually better to provide more information rather than less.
 
-### Parts of a General Citation
+## Parts of a General Citation
 
 1. Responsible party
 2. Title of dataset
@@ -27,7 +27,7 @@ Data citation formats are still a work in progress. Some data centers and style
 8. URL, DOI, or other persistent link
 9. Parameters selected, if applicable
 
-### APA 6th Edition Data Citation Guidelines
+## APA 6th Edition Data Citation Guidelines
 
 Dataset
 
@@ -43,12 +43,12 @@ Unpublished raw data from study, untitled work
 
 - Author, F. N. (Year). \[Description of study topic\]. Unpublished raw data.
 
-### American Chemical Society Guidelines
+## American Chemical Society Guidelines
 
 - *Title*; Publisher: Place of Publication, Date; Data Entry Number, Figure
  Titles or other identifying information.
 
-### Data Citation Examples
+## Data Citation Examples
 
 > Bachman, Jerald G., Lloyd D. Johnston, and Patrick M. O'Malley. Monitoring
  the Future: A Continuing Study of American Youth (12th-Grade Survey), 1998
@@ -67,10 +67,10 @@ Unpublished raw data from study, untitled work
 
 ## Additional Resources
 
-[Earth Science Information Federation (ESIP) Citation Guidelines for Data](http://wiki.esipfed.org/index.php/Interagency_Data_Stewardship/Citations#Citation_Guidelines)
+- [Earth Science Information Federation (ESIP) Citation Guidelines for Data](http://wiki.esipfed.org/index.php/Interagency_Data_Stewardship/Citations#Citation_Guidelines)
 
-[Dryad Data Citation Guidelines](http://wiki.datadryad.org/Citing_Data)
+- [Dryad Data Citation Guidelines](http://wiki.datadryad.org/Citing_Data)
 
-[Inter-university Consortium for Political and Social Research (ICPSR) Data Citation Guidelines](http://www.icpsr.umich.edu/icpsrweb/content/DATAPASS/citations.html)
+- [Inter-university Consortium for Political and Social Research (ICPSR) Data Citation Guidelines](http://www.icpsr.umich.edu/icpsrweb/content/DATAPASS/citations.html)
 
-[Roper Center Data Citations](https://ropercenter.cornell.edu/how-to-cite-roper-center-data/)
+- [Roper Center Data Citations](https://ropercenter.cornell.edu/how-to-cite-roper-center-data/)

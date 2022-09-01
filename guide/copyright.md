@@ -3,14 +3,14 @@ title: Copyright & Intellectual Property
 nav_order: 6
 ---
 
-## Copyright & Intellectual Property
+# Copyright & Intellectual Property
 
 Copyright as it applies to data can be very complex. The information on this
  page is provided for informational purposes only, and should not be relied upon
   as definitive. If you are at all uncertain as to your specific rights,
    researchers are advised to seek counsel.
 
-### General Copyright Guidelines
+## General Copyright Guidelines
 
 - Data cannot be copyrighted, but a particular expression of data (e.g. graph,
  chart) can be. These expressions generally fall under the same guidelines as
@@ -21,7 +21,7 @@ Copyright as it applies to data can be very complex. The information on this
 - A [Creative Commons](http://creativecommons.org/) license can be attached to
  your data to explicitly promote sharing and unlimited use.
 
-### Data from other sources:
+## Data from other sources
 
 - **Original Data**
   - Be aware of any restrictions or licensing issues with any *third-party*
@@ -43,7 +43,7 @@ Copyright as it applies to data can be very complex. The information on this
         Chinatown Today Publishing Enterprises Inc. (1991), yellow pages
          listings do show sufficient originality to be copyrighted.
 
-Additional resources:
+## Additional resources
 
 - [Summary of court decisions related to databases](http://www.copyright.gov/reports/db4.pdf) \[PDF\]
 - [Creative Commons for Science](http://creativecommons.org/science/)

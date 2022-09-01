@@ -4,12 +4,12 @@ parent: Data Management Plans & Planning
 nav_order: 3
 ---
 
-## Data Management Planning Checklist
+# Data Management Planning Checklist
 
 The following are questions that can assist in developing a strong data
  management plan. Not all questions may apply to your project.
 
-**Describing Your Expected Data:**
+## Describing Your Expected Data:
 
 - What datasets are expected to be produced from the project? Include both raw
  data and processed data and any anticipated derivative applications or models.
@@ -25,7 +25,7 @@ The following are questions that can assist in developing a strong data
 - Who is responsible for managing the data?
 - Who will have access to the data during the project?
 
-**Enabling Discovery of Your Data:**
+## Enabling Discovery of Your Data:
 
 - Who will be responsible for documenting the data (creating the metadata)?
  [\[more\]](#metadata)
@@ -36,7 +36,7 @@ The following are questions that can assist in developing a strong data
 - Have you used any customized abbreviations or shorthand? Are they explained
  in full in the data documentation? [\[more\]](#bestpractices)
 
-**Enabling Long-term Storage of Your Data:**
+## Enabling Long-term Storage of Your Data:
 
 - Where will the data be stored during the project? [\[more\]](#storing)
 - What backup measures will be implemented?
@@ -47,13 +47,13 @@ The following are questions that can assist in developing a strong data
 - How large is the dataset, and if relevant, what is its anticipated rate of
  growth? (e.g. MB/year)
 
-**Enabling Sharing of Your Data:**
+## Enabling Sharing of Your Data:
 
 - How should the data be made accessible?
 - Who are the potential audiences for the data?
 - How could the data be re-used and re-purposed?
 
-**Copyright, Security, Privacy Concerns:**
+## Copyright, Security, Privacy Concerns:
 
 - Does the dataset include any sensitive information subject to confidentiality
  concerns?
@@ -62,7 +62,7 @@ The following are questions that can assist in developing a strong data
 - Will the data be collected in the United States or other? If so, where?
 - Do the data have unique identifiers?
 
-**Enabling Citation of Your Data:**
+## Enabling Citation of Your Data:
 
 - What publications, discoveries, or further datasets have resulted from the
  data?

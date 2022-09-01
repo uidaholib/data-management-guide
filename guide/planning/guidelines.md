@@ -4,7 +4,7 @@ parent: Data Management Plans & Planning
 nav_order: 1
 ---
 
-## DMPs & Guidelines
+# DMPs & Guidelines
 
 Data Management Plans (DMPs) are documents that outline the handling, storage,
  and sharing policies governing the use of data on a project.  They are used to

@@ -4,7 +4,7 @@ parent: Data Management Plans & Planning
 nav_order: 4
 ---
 
-## Data Management Plan (DMP) Examples and Templates
+# Data Management Plan (DMP) Examples and Templates
 
 - [DMPTool](https://dmptool.org) - helps to generate a data management plan
  compliant with funding agency requirements, including NSF and NIH.

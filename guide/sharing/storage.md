@@ -4,7 +4,7 @@ parent: Formats, Files, and Backing Up
 nav_order: 3
 ---
 
-## Storing and Backing Up Your Data
+# Storing and Backing Up Your Data
 
 In order to to properly safeguard your data files, you should both **STORE**
  your data in a secure location that you can readily access and **BACKUP** your
@@ -28,7 +28,7 @@ Backup preserves older copies so you can restore your data if accidental
 When it comes to safeguarding your important data assets, remember both storage
  and backup are essential!
 
-### Storing Your Data
+## Storing Your Data
 
 Your data should be stored somewhere that is accessible and secure at the very
  least. For University of Idaho students and researchers, using a service like
@@ -40,7 +40,7 @@ Many of these services provide mirroring services that will link a folder on
   that when you save or make changes to files stored on your hard drive, those
    files are added or revised to in their online storage locations as well.
 
-### Backing up Your Data
+## Backing up Your Data
 
 Following a good storage routine is one way to ensure your data is backed-up to
  some extent. However, to mitigate any losses of data, one should backup their
@@ -58,7 +58,7 @@ A simple way to do this is to backup your data on a regular basis to an external
    create multiple copies of the same files or versions of files in different
     locations.
 
-### Storing and Backing Up Your Lab's Data
+## Storing and Backing Up Your Lab's Data
 
 Labs present a special problem for the storage and backup of data, as the large
  amount of data and the varying number of people who have access to that data

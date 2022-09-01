@@ -4,7 +4,7 @@ parent: Data Documentation & Metadata
 nav_order: 1
 ---
 
-## What is Metadata?
+# What is Metadata?
 
 Metadata is "data about data." This is a circular definition; so to simplify,
  think of a book you like. The title of that book is a piece of metadata; also
