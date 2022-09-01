@@ -9,8 +9,8 @@ nav_order: 4
 - [DMPTool](https://dmptool.org) - helps to generate a data management plan
  compliant with funding agency requirements, including NSF and NIH.
 
-<div id="iframe" class="text-center">
-    <iframe src="//player.vimeo.com/video/82408192" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen>
+<div class="text-center">
+    <iframe src="//player.vimeo.com/video/82408192" width="500" height="281" style="max-width: 100%" frameborder="0" allowfullscreen>
     </iframe>
 </div>
 
