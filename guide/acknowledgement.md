@@ -19,3 +19,4 @@ We extend this courtesy to others who find our content useful.
 - [University of Wisconsin Libraries](http://researchdata.wisc.edu/)
 
 This site uses a modified version of [Just the Docs](https://github.com/just-the-docs/just-the-docs) theme and is built using [Jekyll](https://jekyllrb.com/).
+The source code is available on GitHub at [uidaholib/data-management-guide](https://github.com/uidaholib/data-management-guide).
