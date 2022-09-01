@@ -28,15 +28,13 @@ There are many guidelines on the web regarding the best ways to name your files.
    (such as "v01"). Change the number each time you save, and substitute the
     word "FINAL" for the final version number.
   - Use names for files and folders that include a Unique Identifier (i.e.
-   Project name or Grant \#).
+   Project name or Grant #).
 - At the same time, try to keep names under 32 characters or less.
-- Avoid using the following characters in your names: "/ \\ : \* ? " \< \> \[ \]
- & $. These characters have specific meanings in your computer's operating
-  system that could result in misreading or deleting these files
+- Avoid using the following characters in your names: `" / \ : * ? < > [ ] & $`. These characters have specific meanings in your computer's operating system that could result in misreading or deleting these files.
 - When using sequential numbering, make sure to use leading zeros to allow for
  multi-digit versions. For example, a sequence of 1-10 should be numbered 01-10;
   a sequence of 1-100 should be numbered 001-100 (e.g. the 11th item would be
    numbered 011).
 - Use only one period and have it appear before the file extension (e.g.
- name\_paper.doc NOT name **.** paper **.** doc OR name\_paper **..** doc)
-- Use underscores (\_) rather than spaces to separate terms.
+ "name_paper.doc" NOT "name.paper.doc" OR "name_paper..doc")
+- Use underscores (`_`) rather than spaces to separate terms.
