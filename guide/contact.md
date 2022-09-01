@@ -8,6 +8,9 @@ nav_order: 8
 If you have any questions about data management please contact [Jeremy Kenyon](mailto:jkenyon@uidaho.edu).
 For immediate inquiries, please contact the library [Reference Desk](https://www.lib.uidaho.edu/help/) or visit the [Data Hub](https://www.lib.uidaho.edu/datahub/).
 
+[Library Help](https://www.lib.uidaho.edu/help/){: .btn .btn-green}
+[Data Hub](https://www.lib.uidaho.edu/datahub/){:.btn .btn-blue}
+
 ## Data Services Team
 
 - [**Jeremy Kenyon**](https://www.lib.uidaho.edu/about/people/jkenyon.html), Research Librarian, <jkenyon@uidaho.edu>, (208) 885-7955
