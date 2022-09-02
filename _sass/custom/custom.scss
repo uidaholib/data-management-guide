@@ -75,13 +75,56 @@ wild-rose,#E10098
 palouse-green,#00AF66
 */ 
 
+// custom btn generators
+@mixin btn-outline($fg, $bg) {
+    color: $fg;
+    border: $bg solid 2px;
+    background-color: $body-background-color;
+    box-shadow: none;
+    &:hover {
+        background-color: $bg;
+    }
+} 
+@mixin btn-custom($fg, $bg) {
+  color: $fg;
+  background-color: $bg;
+  box-shadow: none;
+  //box-shadow: 0 1px 3px rgba(0, 0, 0, 0.25), 0 4px 10px rgba(0, 0, 0, 0.12);
+
+  &:hover {
+    color: $fg;
+    background-color: darken($bg, 2%);
+    //background-image: linear-gradient((lighten($bg, 2%), darken($bg, 4%)));
+  }
+
+  &:active,
+  &.selected {
+    background-color: darken($bg, 5%);
+    background-image: none;
+    //box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.15);
+  }
+
+  &.selected:hover {
+    background-color: darken($bg, 10%);
+  }
+}
+
 // set up custom U of I buttons
 .btn-pride-gold {
-    @include btn-color($body-heading-color, #F1B300);
+    @include btn-custom($body-heading-color, #F1B300);
+}
+.btn-outline-pride-gold {
+    @include btn-outline($body-heading-color, #F1B300);
 }
 .btn-clearwater {
-    @include btn-color($body-heading-color, #00AEC7);
+    @include btn-custom($body-heading-color, #00AEC7);
+}
+.btn-outline-clearwater {
+    @include btn-outline($body-heading-color, #00AEC7);
 }
 .btn-palouse-green {
-    @include btn-color($body-heading-color, #00AF66);
+    @include btn-custom($body-heading-color, #00AF66);
+}
+.btn-outline-palouse-green {
+    @include btn-outline($body-heading-color, #00AF66);
 }

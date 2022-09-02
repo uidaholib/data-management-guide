@@ -8,8 +8,8 @@ nav_order: 8
 If you have any questions about data management please contact [Jeremy Kenyon](mailto:jkenyon@uidaho.edu).
 For immediate inquiries, please contact the library [Reference Desk](https://www.lib.uidaho.edu/help/) or visit the [Data Hub](https://www.lib.uidaho.edu/datahub/).
 
-[Data Hub](https://www.lib.uidaho.edu/datahub/){:.btn .btn-clearwater}
-[Library Help](https://www.lib.uidaho.edu/help/){:.btn .btn-palouse-green}
+[Data Hub](https://www.lib.uidaho.edu/datahub/){:.btn .btn-outline-clearwater .m-2}
+[Library Help](https://www.lib.uidaho.edu/help/){:.btn .btn-outline-palouse-green .m-2}
 
 ## Data Services Team
 
