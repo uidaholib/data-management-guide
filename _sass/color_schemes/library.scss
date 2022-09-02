@@ -25,29 +25,6 @@ $font-size-9: 38px;
 $font-size-10: 44px;
 $font-size-10-sm: 50px;
 
-/* 
-U of I Colors
-pride-gold,#F1B300
-clearwater,#00AEC7
-clearwater-light,#8BD5E5
-payette-blue,#003E51
-ponderosa-pine,#004E42
-garnet,#D22630
-wild-rose,#E10098
-palouse-green,#00AF66
-*/ 
-
-// set up custom U of I buttons
-.btn-pride-gold {
-    @include btn-color($body-heading-color, #F1B300);
-}
-.btn-clearwater {
-    @include btn-color($body-heading-color, #00AEC7);
-}
-.btn-palouse-green {
-    @include btn-color($body-heading-color, #00AF66);
-}
-
 /*
 
 $body-background-color: $white;
