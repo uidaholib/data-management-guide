@@ -1,5 +1,13 @@
 // add custom sass here to override any styles
+
 .site-title img { height: 53px; }
+
+#footer-logo { height: 80px; }
+footer .d-flex { 
+    align-items: flex-start; 
+    a { background-image: none; }
+}
+
 /*
 // change code block color
 .highlighter-rouge {
