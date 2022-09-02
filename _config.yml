@@ -59,7 +59,7 @@ heading_anchors: true
 # Aux links for the upper right navigation
 aux_links:
   "U of I Library Data Services":
-    - "https://www.lib.uidaho.edu/"
+    - "https://www.lib.uidaho.edu/services/data/"
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: true

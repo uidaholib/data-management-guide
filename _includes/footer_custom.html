@@ -1,3 +1,8 @@
-{%- if site.footer_content -%}
-  <p class="text-small text-grey-dk-100 mb-0">{{ site.footer_content }}</p>
-{%- endif -%}
+<div style="align-items: flex-start;" class="d-flex">
+  <a title="University of Idaho Library Home" href="/">
+    <img id="footer-logo" style="height: 100px;" class="img-fluid d-inline" src="https://www.lib.uidaho.edu/media/images/tower_icon_gold.png" alt="Gold U of I Library Tower logo">
+  </a>
+  <a href="{{ '/' | relative_url }}" class="m-2">GUIDE HOME</a> 
+  <a href="https://www.lib.uidaho.edu/datahub/" class="m-2">DATA HUB</a> 
+  <a href="{{ '/guide/contact/' | relative_url }}" class="m-2">CONTACTS</a> 
+</div>

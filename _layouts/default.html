@@ -42,15 +42,16 @@ layout: table_wrappers
 
   <div class="side-bar">
     <div class="site-header">
-      <a href="https://www.lib.uidaho.edu/" title="University of Idaho Library" class="site-title lh-tight">
-        
+
+      <a href="https://www.lib.uidaho.edu/" title="University of Idaho Library" class="site-title lh-tight">  
         <img class="" src="https://www.lib.uidaho.edu/media/images/ui_library_horizontal.png" alt="University of Idaho Library logo with gold I">
-        
       </a>
+
       <button href="#" id="menu-button" class="site-button" title="Menu Button" aria-label="Toggle Navigation Menu">
         <svg viewBox="0 0 24 24" class="icon"><use xlink:href="#svg-menu"></use></svg>
       </button>
     </div>
+
     <nav role="navigation" aria-label="Main navigation menu" id="site-nav" class="site-nav">
       {% include nav.html pages=site.html_pages %}
     </nav>
@@ -146,11 +147,11 @@ layout: table_wrappers
         {% capture footer_custom %}
           {%- include footer_custom.html -%}
         {% endcapture %}
-        {% if footer_custom != "" or site.last_edit_timestamp or site.gh_edit_link %}
+        {% if footer_custom != "" or site.last_edit_timestamp or site.gh_edit_link or site.back_to_top %}
           <hr>
           <footer>
             {% if site.back_to_top %}
-              <p><a href="#top" id="back-to-top">{{ site.back_to_top_text }}</a></p>
+              <p class="mb-6"><a href="#top" id="back-to-top">{{ site.back_to_top_text }}</a></p>
             {% endif %}
 
             {{ footer_custom }}
