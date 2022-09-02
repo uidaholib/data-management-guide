@@ -15,6 +15,6 @@ Librarians endeavor to communicate information about data storage standards and 
 Content in the guide is divided into topical sections that you can navigate using the table of contents menu on the left or search using the box at the top. 
 If you have any questions or comments regarding this guide or in the information within, please don't hesitate to [contact us]({{ '/guide/contact/' | relative_url }}).
 
-[Data Management Contacts]({{ '/guide/contact/' | relative_url }}){:.btn .btn-purple}
-[Data Hub](https://www.lib.uidaho.edu/datahub/){:.btn .btn-blue}
-[Library Help](https://www.lib.uidaho.edu/help/){: .btn .btn-green}
+[Data Management Contacts]({{ '/guide/contact/' | relative_url }}){:.btn .btn-pride-gold}
+[Data Hub](https://www.lib.uidaho.edu/datahub/){:.btn .btn-clearwater}
+[Library Help](https://www.lib.uidaho.edu/help/){: .btn .btn-palouse-green}
