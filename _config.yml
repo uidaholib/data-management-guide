@@ -16,6 +16,8 @@ title: U of I Library Data Management Guide
 description: The University of Idaho Library strives to help researchers at the University of Idaho become familiar with data management practices. Library faculty endeavor to communicate information about data storage standards and protocols, metadata reporting requirements and best practices, and the requirements and recommendations of national funding bodies and/or professional associations.
 baseurl: /services/data/data-management # the subpath of your site, e.g. /blog
 url: "https://www.lib.uidaho.edu" # the base hostname & protocol for your site, e.g. http://example.com
+# directory for library media assets
+lib-media: https://www.lib.uidaho.edu/media
 
 permalink: pretty
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE.txt", "README.md", "Rakefile"]
