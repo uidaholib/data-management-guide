@@ -13,7 +13,6 @@ For immediate inquiries, please contact the library [Reference Desk](https://www
 
 ## Data Services Team
 
-- [**Jeremy Kenyon**](https://www.lib.uidaho.edu/about/people/jkenyon.html), Research Librarian, <jkenyon@uidaho.edu>, (208) 885-7955
-- [**Bruce Godfrey**](https://www.lib.uidaho.edu/about/people/bgodfrey.html), GIS Specialist, INSIDE Idaho, <bgodfrey@uidaho.edu>, (208) 292-1407
-- [**Evan Williamson**](https://www.lib.uidaho.edu/about/people/ewilliamson.html), Digital Infrastructure Librarian, <ewilliamson@uidaho.edu>, (208) 885-6260
-- [**Jylisa (Doney) Kenyon**](https://www.lib.uidaho.edu/about/people/jylisadoney.html), Social Sciences Librarian, <jylisa.doney@uidaho.edu>, (208) 885-0959
+- [**Jeremy Kenyon**](https://www.lib.uidaho.edu/about/people/jkenyon.html), Research Librarian, <jkenyon@uidaho.edu>
+- [**Bruce Godfrey**](https://www.lib.uidaho.edu/about/people/bgodfrey.html), Geospatial Information Systems Librarian, INSIDE Idaho, <bgodfrey@uidaho.edu>
+- [**Norman Lee**](https://www.lib.uidaho.edu/about/people/normanlee.html), Research, Outreach, and Engagement Librarian, <normanlee@uidaho.edu>
