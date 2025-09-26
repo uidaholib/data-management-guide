@@ -31,7 +31,3 @@ As of January 2023, the National Institutes of Health will require data manageme
 For assistance, contact either:
   - Jeremy Kenyon, Library [(jkenyon@uidaho.edu)](mailto:jkenyon@uidaho.edu), or 
   - Andrew Child, RCDS [(awchild@uidaho.edu)](mailto:awchild@uidaho.edu) for assistance.
-
-## Upcoming Workshops or Presentations
-
-- Spring 2023: Check back soon, events are being planned.

@@ -18,17 +18,17 @@ Here is some information on common metadata standards, as well as some examples:
 
 ## General
 
-- **Dublin Core (DC)**: Widely used in disciplinary and institutional repositories
+- **[Dublin Core (DC)](https://www.dublincore.org/)**: Widely used in disciplinary and institutional repositories
 
 ## Life Sciences
 
-- **Darwin Core**: Designed to facilitate the sharing of information about
+- **[Darwin Core](https://dwc.tdwg.org/)**: Designed to facilitate the sharing of information about
  biological diversity. It is primarily based on taxa, their occurrence in nature as documented by observations, specimens, and samples and related information. Primarily used in describing ecological specimens and for natural history collections.
-- **Ecological Metadata Language (EML)**: Consists of XML modules that can be used  to document ecological datasets. A good standard for non-spatial environmental data
+- **[Ecological Metadata Language (EML)](https://eml.ecoinformatics.org/)**: Consists of XML modules that can be used  to document ecological datasets. A good standard for non-spatial environmental data
 
 ## Humanities
 
-- **Text Encoding Initiative (TEI)**: A widely-used standard for representing
+- **[Text Encoding Initiative (TEI)](https://tei-c.org/)**: A widely-used standard for representing
  textual materials in XML.
 
 ## Social Sciences
@@ -50,7 +50,7 @@ Here is some information on common metadata standards, as well as some examples:
        adopting the metadata standard as well. See
         [this PDF document](http://www.fgdc.gov/metadata/documents/preparing-for-international-metadata-guidance.pdf)
          for guidance on moving from CSDGM to ISO.
-- **ISO 19115-2:2000**: Geographic information - Metadata - Part 2: Extensions for
+- **[ISO 19115-2:2019](https://committee.iso.org/sites/tc211/home/projects/projects---complete-list/iso-19115-2.html)**: Geographic information - Metadata - Part 2: Extensions for
  imagery and gridded data. This is an international standard for describing
   geographic information and services. Part 2 added content for ISO 19115 that
    supports the documentation of imagery, gridded data and other remotely sensed
@@ -58,7 +58,7 @@ Here is some information on common metadata standards, as well as some examples:
 
 ## Physical Sciences
 
-- **[NetCDF Climate and Forecast (CF) Metadata Conventions](http://www.cgd.ucar.edu/cms/eaton/netcdf/CF-20010629.htm)**: The NetCDF Climate and Forecast (CF) Metadata
+- **[NetCDF Climate and Forecast (CF) Metadata Conventions](https://cfconventions.org/)**: The NetCDF Climate and Forecast (CF) Metadata
  Conventions are designed to promote the interoperable processing and sharing of
   data from netCDF files. They are focused on data use while the NetCDF
    Attribute Conventions are focused on data discovery.

@@ -14,14 +14,10 @@ nav_order: 4
     </iframe>
 </div>
 
-- [DMP Template from DataONE](http://www.dataone.org/data-management-planning)
+- [DMP Templates from DMPTool](https://dmptool.org/public_templates)
 
-- [Example Plans from UC San Diego](https://library.ucsd.edu/research-and-collections/data-curation/dmp-samples.html)
+- [Example Plans from University of Arizona](https://data.library.arizona.edu/data-management/data-management-plans/examples)
 
-- [Example Plans from the Inter-University Consortium for Social and Political Research (ICPSR)](http://www.icpsr.umich.edu/icpsrweb/content/datamanagement/dmp/resources.html) - includes examples from the natural sciences
+- [How to Write an NSF Data Management Plan](https://lternet.edu/writing-a-data-management-plan-for-your-nsf-proposal/) - From James Brunt of LTER
 
-- [How to Write an NSF Data Management Plan](https://lternet.edu/writing-a-data-management-plan-for-your-nsf-proposal/) - From James Brunt of
- LTER
-
-- [NSF Data Management Plans](http://wikis.ala.org/acrl/index.php/NSF_Data_Management_Plans) - A list of resources from the Association for
- College and Research Libraries
+- [Digital Curation Center (UK)](https://www.dcc.ac.uk/resources/data-management-plans/guidance-examples) - Digital Curation Center (DCC) links to sample DMPs. The bottom of the page contains links to DMPs for US funding agencies.

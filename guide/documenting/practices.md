@@ -28,4 +28,4 @@ At the data-level, datasets should also be documented with:
 - weighting and grossing variables created
 - data listing with descriptions for cases, individuals or items studied
 
-More best practices information - especially for the ecological and environmental sciences can be found on the [DataONE website](http://www.dataone.org/all-best-practices).
+More best practices information - especially for the ecological and environmental sciences can be found on the [DataONE website](https://dataoneorg.github.io/Education/bestpractices/).

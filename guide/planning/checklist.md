@@ -24,7 +24,7 @@ The following are questions that can assist in developing a strong data manageme
 
 - Who will be responsible for documenting the data (creating the [metadata]({{ '/guide/documenting/metadata/' | relative_url }}))?
 - What [standards]({{ '/guide/documenting/standards/' | relative_url }}) will be used for the metadata (e.g. XML-based like EML, Dublin Core)? 
-- Have you used any formal specialized vocabularies, code lists, thesauri, or taxonomies (e.g. [phylogenetic taxonomies](http://www.ncbi.nlm.nih.gov/Taxonomy/taxonomyhome.html/index.cgi?chapter=resources), [ISO topics](https://marinemetadata.org/references/isotopics))?
+- Have you used any formal specialized vocabularies, code lists, thesauri, or taxonomies (e.g. [phylogenetic taxonomies](http://www.ncbi.nlm.nih.gov/Taxonomy/taxonomyhome.html/index.cgi?chapter=resources), [ISO topics](https://apps.usgs.gov/thesaurus/term-simple.php?thcode=15&code=000))?
 - Have you used any customized abbreviations or shorthand? Are they explained in full in the data documentation?
 
 ## Enabling Long-term Storage of Your Data:

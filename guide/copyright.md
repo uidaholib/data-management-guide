@@ -46,5 +46,4 @@ Copyright as it applies to data can be very complex. The information on this
 ## Additional resources
 
 - [Summary of court decisions related to databases](http://www.copyright.gov/reports/db4.pdf) \[PDF\]
-- [Creative Commons for Science](http://creativecommons.org/science/)
-- [National Academy of Engineering - *The Responsible Collection, Retention, Sharing, and Interpretation of Data*](http://www.onlineethics.org/cms/research/modindex/moddata.aspx)
+- [National Academy of Engineering. Ensuring the Integrity, Accessibility, and Stewardship of Research Data in the Digital Age (2009. Washington, DC: The National Academies Press. https://doi.org/10.17226/12615.](https://nap.nationalacademies.org/read/12615/chapter/6#109)

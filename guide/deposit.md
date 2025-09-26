@@ -23,10 +23,10 @@ There are many reasons to share your data with the world at large. Not least
 
 ## Repositories at the University of Idaho
 
-* **[University of Idaho Research Computing and Data Services (RCDS) Data Portal](https://data.nkn.uidaho.edu//)**
-  * UI RCDS hosts a data repository for University of Idaho-produced data. It can
+* **[University of Idaho VERSO Data Portal](https://verso.uidaho.edu//)**
+  * VERSO is a data repository for University of Idaho-produced data. It can
  accommodate most types of data and is free to U of I personnel. The repository
-  is FAIR-compliant and backed up routinely with the Idaho National Laboratory.
+  is FAIR-compliant and backed up routinely with the Idaho National Laboratory. If data files exceed the limit (20 GB), UI RCDS will host the data instead. Please contact us for information about procedures.
 
 * **[INSIDE Idaho - Geospatial Data](https://www.insideidaho.org)**
   * INSIDE Idaho is the official geospatial data clearinghouse for the State of

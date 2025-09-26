@@ -67,7 +67,7 @@ Unpublished raw data from study, untitled work
 
 ## Additional Citation Resources
 
-- [Earth Science Information Federation (ESIP) Citation Guidelines for Data](http://wiki.esipfed.org/index.php/Interagency_Data_Stewardship/Citations#Citation_Guidelines)
+- [Earth Science Information Federation (ESIP) Citation Guidelines for Data](https://doi.org/10.6084/m9.figshare.8441816)
 
 - [Dryad Data Citation Guidelines](http://wiki.datadryad.org/Citing_Data)
 
