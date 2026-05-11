@@ -17,4 +17,5 @@ If you have any questions or comments regarding this guide or in the information
 
 [Data Management Contacts]({{ '/guide/contact/' | relative_url }}){:.btn .btn-outline-pride-gold .m-2}
 [Data Hub](https://www.lib.uidaho.edu/datahub/){:.btn .btn-outline-clearwater .m-2}
-[Library Help](https://www.lib.uidaho.edu/help/){: .btn .btn-outline-palouse-green .m-2}
+[Library Help](https://www.lib.uidaho.edu/help/){: .btn .btn-outline-lupine .m-2}
+

@@ -6,6 +6,10 @@
 footer .d-flex { 
     align-items: flex-start;
 }
+// tweak link decoration
+a:not([class]) {
+  text-decoration-color: #BEBCBE;
+}
 
 /*
 // change code block color
