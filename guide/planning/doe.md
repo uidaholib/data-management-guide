@@ -5,13 +5,13 @@ nav_order: 5
 ---
 
 # DOE Data Management & Sharing Plans (DMSPs)
-Last Updated: April 13, 2026
+
+*Last Updated: April 13, 2026*
 
 The U.S. Department of Energy requires data management and sharing plans as part of all funded research projects. The University of Idaho provides the following resources to help researchers understand DOE's requirements and develop compliant plans using university resources.
 
-<p style="background-color: #ffe6e6; border-left: 4px solid #cc0000; padding: 0.75em 1em; border-radius: 4px;">
-As of <b>October 1, 2025</b>, DOE replaced Data Management Plans (DMPs) with <b>Data Management and Sharing Plans (DMSPs)</b> in all new solicitations. The transition is formalized in <b><a href="https://www.energy.gov/management/fal-2026-01-data-management-and-sharing-plan-dmsp-requirements">FAL 2026-01</a></b> (December 2025). If you are responding to a solicitation released after October 1, 2025, you must submit a DMSP rather than a DMP. Older templates and guidance materials may not reflect this change — always check the solicitation for the most current requirements.
-</p>
+As of **October 1, 2025**, DOE replaced Data Management Plans (DMPs) with **Data Management and Sharing Plans (DMSPs)** in all new solicitations. The transition is formalized in [FAL 2026-01](https://www.energy.gov/management/fal-2026-01-data-management-and-sharing-plan-dmsp-requirements) (December 2025). If you are responding to a solicitation released after October 1, 2025, you must submit a DMSP rather than a DMP. Older templates and guidance materials may not reflect this change — always check the solicitation for the most current requirements.
+{:.alert .alert-primary}
 
 ## General Information
 
@@ -27,7 +27,7 @@ As of <b>October 1, 2025</b>, DOE replaced Data Management Plans (DMPs) with <b>
 
 Individual DOE programs may modify or add to the DOE-wide DMSP requirements. Researchers should always check for program-specific guidance in their solicitation.
 
-Individual facilities within programs may also have unique requirements. Guidance can be found on the DOE's [**resources page**](https://science.osti.gov/Funding-Opportunities/Digital-Data-Management#resources).
+Individual facilities within programs may also have unique requirements. Guidance can be found on the DOE's [Resources Page](https://science.osti.gov/Funding-Opportunities/Digital-Data-Management#resources).
 
 ### Biological and Environmental Research (BER)
 
@@ -42,7 +42,7 @@ Individual facilities within programs may also have unique requirements. Guidanc
 
 - [**ASCR Digital Data Management**](https://science.osti.gov/ascr/Funding-Opportunities/Digital-Data-Management)
 - ASCR treats **software as a data artifact** — DMSPs must address software-specific issues including open source licensing, distribution format, discoverability, and handling of proprietary third-party dependencies
-- DMP's must breifly discuss the issues below, if applicable:
+- DMP's must briefly discuss the issues below, if applicable:
   - The Open Source License to be used;
   - If executable versions of the software will also be released, and if so what format will be used;
   - How software can be found and accessed and the length of time the software will be publicly available;
@@ -72,17 +72,10 @@ ARPA-E, the Office of Fossil Energy and Carbon Management (FECM), and other DOE 
 - [**FAL 2026-01: DMSP Requirements**](https://www.energy.gov/management/fal-2026-01-data-management-and-sharing-plan-dmsp-requirements) - the current Financial Assistance Letter implementing DMSP requirements across all DOE programs
 - [**SC PuRe Data Resources**](https://science.osti.gov/Initiatives/PuRe-Data) - Office of Science-designated authoritative data resources across mission areas, operating under elevated standards for data stewardship
 
-## TODO: Locally Hosted Resources
-
-The following PDF resources would complement the external links above, similar to the locally hosted PDFs on the [NIH DMSP page]({{ '/guide/planning/nih/' | relative_url }}):
-
-- [ ] **DOE DMSP Overview** — a summary of the DOE policy, timeline, and how DMSPs are reviewed (analogous to `2023-NIH-DMSP-overview.pdf`)
-- [ ] **Elements of a DOE DMSP** — a detailed guide to the five suggested DMSP sections with examples (analogous to `Elements_of_DMSP.pdf`)
-- [ ] **DOE DMSP Checklist** — a list of prompts to address in each section of a DMSP (analogous to `DMSP_Checklist.pdf`)
-
 ## Questions?
 
 For assistance, contact either:
-  - Jeremy Kenyon, Library [(jkenyon@uidaho.edu)](mailto:jkenyon@uidaho.edu), or
-  - Norm Lee, Library [(normanlee@uidaho.edu)](mailto:normanlee@uidaho.edu), or
-  - Andrew Child, RCDS [(awchild@uidaho.edu)](mailto:awchild@uidaho.edu) for assistance.
+
+  - Jeremy Kenyon, Library <jkenyon@uidaho.edu>, or
+  - Norm Lee, Library <normanlee@uidaho.edu>, or
+  - Andrew Child, RCDS <awchild@uidaho.edu> for assistance.

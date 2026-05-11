@@ -5,13 +5,13 @@ nav_order: 7
 ---
 
 # National Science Foundation (NSF) Data Management & Sharing Plans (DMSPs)
-Last Updated: May 11, 2026
+
+*Last Updated: May 11, 2026*
 
 The National Science Foundation requires data management and sharing plans as a part of all research project proposals. The University of Idaho provides the following resources to better understand the requirements and expectations of the agency, and how to develop plans with resources at the university.
 
-<div style="padding: 10px; background-color: #fff3cd; border-left: 5px solid #ffc107; margin: 15px 0;">
-As of <b>April 27, 2026</b>, NSF now requires DMSPs to be completed via a <b><a href="https://www.research.gov/research-web/content/DMSP">structured webform in Research.gov</a></b>, replacing the previous two-page PDF upload. This change is part of <b><a href="https://www.nsf.gov/policies/document/pappg24-1-supplement-2">PAPPG 24-1 Supplement 2 (NSF 26-202)</a></b>, effective January 22, 2026. The webform is tailored by directorate, so the specific questions you see will depend on which directorate you are submitting to.
-</div>
+As of **April 27, 2026**, NSF now requires DMSPs to be completed via a [structured webform in Research.gov](https://www.research.gov/research-web/content/DMSP), replacing the previous two-page PDF upload. This change is part of [PAPPG 24-1 Supplement 2 (NSF 26-202)](https://www.nsf.gov/policies/document/pappg24-1-supplement-2), effective January 22, 2026. The webform is tailored by directorate, so the specific questions you see will depend on which directorate you are submitting to.
+{:.alert .alert-primary}
 
 ## General Information
 
@@ -53,6 +53,7 @@ Different NSF directorates may have additional DMSP requirements, and the Resear
 ## Questions?
 
 For assistance, contact either:
-  - Jeremy Kenyon, Library [(jkenyon@uidaho.edu)](mailto:jkenyon@uidaho.edu), or
-  - Norm Lee, Library [(normanlee@uidaho.edu)](mailto:normanlee@uidaho.edu), or
-  - Andrew Child, RCDS [(awchild@uidaho.edu)](mailto:awchild@uidaho.edu) for assistance.
+
+  - Jeremy Kenyon, Library <jkenyon@uidaho.edu>, or
+  - Norm Lee, Library <normanlee@uidaho.edu>, or
+  - Andrew Child, RCDS <awchild@uidaho.edu> for assistance.
