@@ -4,8 +4,7 @@
 
 #footer-logo { height: 80px; }
 footer .d-flex { 
-    align-items: flex-start; 
-    a { background-image: none; }
+    align-items: flex-start;
 }
 
 /*
@@ -74,13 +73,17 @@ div.highlighter-rouge {
 /* 
 U of I Colors
 pride-gold,#F1B300
-clearwater,#00AEC7
-clearwater-light,#8BD5E5
-payette-blue,#003E51
-ponderosa-pine,#004E42
-garnet,#D22630
-wild-rose,#E10098
-palouse-green,#00AF66
+grey-color,#808080
+raspberry,#D7003F
+garnet,#7A0017
+lupine,#5E48FF
+huckleberry,#261882
+clearwater,#008080
+palouse,#034441
+leather,#AB4700
+bark,#552301
+brand-black,#191919
+brand-white,#ffffff
 */ 
 
 // custom btn generators
@@ -124,15 +127,9 @@ palouse-green,#00AF66
 .btn-outline-pride-gold {
     @include btn-outline($body-heading-color, #F1B300);
 }
-.btn-clearwater {
-    @include btn-custom($body-heading-color, #00AEC7);
-}
 .btn-outline-clearwater {
-    @include btn-outline($body-heading-color, #00AEC7);
+    @include btn-outline($body-heading-color, #008080);
 }
-.btn-palouse-green {
-    @include btn-custom($body-heading-color, #00AF66);
-}
-.btn-outline-palouse-green {
-    @include btn-outline($body-heading-color, #00AF66);
+.btn-outline-lupine {
+    @include btn-outline($body-heading-color, #5E48FF);
 }
