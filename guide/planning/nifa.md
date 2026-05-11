@@ -18,5 +18,6 @@ In late 2025, NIFA started mplementing the multi-year [Grants Management Initiat
 
 ## Questions?
 For assistance, contact either:
-  - Jeremy Kenyon, Library [(jkenyon@uidaho.edu)](mailto:jkenyon@uidaho.edu), or 
+  - Jeremy Kenyon, Library [(jkenyon@uidaho.edu)](mailto:jkenyon@uidaho.edu), or
+  - Norm Lee, Library [(normanlee@uidaho.edu)](mailto:normanlee@uidaho.edu), or
   - Andrew Child, RCDS [(awchild@uidaho.edu)](mailto:awchild@uidaho.edu) for assistance.

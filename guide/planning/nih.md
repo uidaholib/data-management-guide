@@ -35,5 +35,6 @@ As of <b><a href="https://grants.nih.gov/grants/guide/notice-files/NOT-OD-26-046
 ## Questions?
 
 For assistance, contact either:
-  - Jeremy Kenyon, Library [(jkenyon@uidaho.edu)](mailto:jkenyon@uidaho.edu), or 
+  - Jeremy Kenyon, Library [(jkenyon@uidaho.edu)](mailto:jkenyon@uidaho.edu), or
+  - Norm Lee, Library [(normanlee@uidaho.edu)](mailto:normanlee@uidaho.edu), or
   - Andrew Child, RCDS [(awchild@uidaho.edu)](mailto:awchild@uidaho.edu) for assistance.
