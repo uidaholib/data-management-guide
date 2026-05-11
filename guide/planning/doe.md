@@ -84,4 +84,5 @@ The following PDF resources would complement the external links above, similar t
 
 For assistance, contact either:
   - Jeremy Kenyon, Library [(jkenyon@uidaho.edu)](mailto:jkenyon@uidaho.edu), or
+  - Norm Lee, Library [(normanlee@uidaho.edu)](mailto:normanlee@uidaho.edu), or
   - Andrew Child, RCDS [(awchild@uidaho.edu)](mailto:awchild@uidaho.edu) for assistance.
