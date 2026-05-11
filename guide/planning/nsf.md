@@ -1,5 +1,5 @@
 ---
-title: NSF
+title: NSF Data Management & Sharing Plans
 parent: Data Management Plans & Planning
 nav_order: 7
 ---
@@ -53,5 +53,6 @@ Different NSF directorates may have additional DMSP requirements, and the Resear
 ## Questions?
 
 For assistance, contact either:
-  - Jeremy Kenyon, Library [(jkenyon@uidaho.edu)](mailto:jkenyon@uidaho.edu), or 
+  - Jeremy Kenyon, Library [(jkenyon@uidaho.edu)](mailto:jkenyon@uidaho.edu), or
+  - Norm Lee, Library [(normanlee@uidaho.edu)](mailto:normanlee@uidaho.edu), or
   - Andrew Child, RCDS [(awchild@uidaho.edu)](mailto:awchild@uidaho.edu) for assistance.
