@@ -1,5 +1,5 @@
 ---
-title: NSF
+title: NSF Data Management & Sharing Plans
 parent: Data Management Plans & Planning
 nav_order: 7
 ---
